@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Коллекция впечатлений</string>
+    <string name="fb_app_id">${fb-id}</string>
+    <string name="vk_app_id">${vk-id}</string>
+    <string name="gcm_sender_id">${sender-id}</string>
+    <string name="menu_about">Об акции</string>
+    <string name="menu_logout">Выйти</string>
+    <string name="hockey_app_crash_id">${hockey-id}</string>
+    <string name="msg_no_internet">Нет подключения к Интернету</string>
+    <string name="msg_device_registration_error">Проблемы с соединением</string>
+    <string name="msg_401_error">Ошибка авторизации. Попробуйте войти еще раз.</string>
+    <string name="app_description">Проходи миссии от Samsung и собирай виртуальные значки. Чем больше твоя коллекция, тем выше шансы получить ценные призы от Samsung. Присоединяйся, и один из них станет твоим!</string>
+</resources>
